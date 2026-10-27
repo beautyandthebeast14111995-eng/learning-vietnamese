@@ -1,0 +1,6 @@
+{
+  "name": "Học Tiếng Việt – Gia đình",
+  "description": "Bilingual Southern Vietnamese learning app for a family of 5 in Ho Chi Minh City with tailored profiles, audio, pronunciation recorder, and teacher mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
